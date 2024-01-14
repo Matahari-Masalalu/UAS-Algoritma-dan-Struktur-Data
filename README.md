@@ -45,7 +45,7 @@ Nomor Antrian Pembeli: 6
 Nomor Antrian Pembeli: 9
 
 
-SORT
+TREE
 1.	Pengguna membuka file C++ menggunakan aplikasi Visual Code Studio/ DevC++
 2.	Pengguna dapat menambahkan node data yang diinginkan menggunakan fungsi addNode di int main dengan char abjad.
 3.	Jika ingin menambahkan sebuah node, maka pengguna harus mengurutkan terlebih dahulu mulai dari akar, menuju kiri / kanan sesuai keinginan pengguna.
