@@ -80,13 +80,13 @@ addNode(&akar->kiri->kiri, abjad = ' S ');
 GRAPH
 1. user diminta untuk memasukan banyak node yang ingin dibuat
 2. user diminta untuk menginputkan jarak secara matriks misal: node nya adalah 3
-        0 3 9
-        1 0 5
-        6 2 0
-3. user diminta untuk menginputkan lokasi asal
-4. user diminta untuk menginputkan lokasi tujuan
-5. setelah user menginputkan data datanya maka proses dijalankan untuk mencari rute terpendek
-6. user diberikan pilihan untuk mmengulang proses atau tidak (y untuk yes) dan (n untuk no)
+3.         0 3 9
+4.         1 0 5
+5.         6 2 0
+6. user diminta untuk menginputkan lokasi asal
+7. user diminta untuk menginputkan lokasi tujuan
+8. setelah user menginputkan data datanya maka proses dijalankan untuk mencari rute terpendek
+9. user diberikan pilihan untuk mmengulang proses atau tidak (y untuk yes) dan (n untuk no)
 
 LINK YOUTUBE
 LINKED LIST
