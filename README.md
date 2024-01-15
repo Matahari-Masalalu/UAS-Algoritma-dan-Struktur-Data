@@ -1,5 +1,5 @@
 # UAS-Algoritma-dan-Struktur-Data
-Ini adalah tugas (Graph) UAS Algoritma dan Struktur Data dari kami yang beranggotakan 
+Ini adalah tugas UAS Algoritma dan Struktur Data dari kami yang beranggotakan 
 1. FAISHAL ANWAR HASYIM (32602300021)
 2. FITRI NUR KHOLIFAH (32602300035)
 3. SILVIYANA (32602300038)
